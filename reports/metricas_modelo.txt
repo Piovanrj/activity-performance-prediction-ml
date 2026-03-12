@@ -1,0 +1,8 @@
+Avaliação do Modelo de Previsão de Rendimento
+--------------------------------------------
+
+MAE  : 0.246134
+MSE  : 0.146935
+RMSE : 0.383321
+R2   : -0.392085
+MAPE : 21.73%
